@@ -1,0 +1,31 @@
+C:\Users\Pierre\Documents\Visual Studio 2015\Projects\Video\Video\obj\Debug\App.g.cs
+C:\Users\Pierre\Documents\Visual Studio 2015\Projects\Video\Video\obj\Debug\Video_MarkupCompile.cache
+C:\Users\Pierre\Documents\Visual Studio 2015\Projects\Video\Video\bin\Debug\Video.exe.config
+C:\Users\Pierre\Documents\Visual Studio 2015\Projects\Video\Video\bin\Debug\Video.exe
+C:\Users\Pierre\Documents\Visual Studio 2015\Projects\Video\Video\bin\Debug\Video.pdb
+C:\Users\Pierre\Documents\Visual Studio 2015\Projects\Video\Video\obj\Debug\MainWindow.g.cs
+C:\Users\Pierre\Documents\Visual Studio 2015\Projects\Video\Video\obj\Debug\Video_MarkupCompile.lref
+C:\Users\Pierre\Documents\Visual Studio 2015\Projects\Video\Video\obj\Debug\MainWindow.baml
+C:\Users\Pierre\Documents\Visual Studio 2015\Projects\Video\Video\obj\Debug\Video.g.resources
+C:\Users\Pierre\Documents\Visual Studio 2015\Projects\Video\Video\obj\Debug\Video.Properties.Resources.resources
+C:\Users\Pierre\Documents\Visual Studio 2015\Projects\Video\Video\obj\Debug\Video.csproj.GenerateResource.Cache
+C:\Users\Pierre\Documents\Visual Studio 2015\Projects\Video\Video\obj\Debug\Video.exe
+C:\Users\Pierre\Documents\Visual Studio 2015\Projects\Video\Video\obj\Debug\Video.pdb
+C:\Users\Pierre\Documents\Visual Studio 2015\Projects\Video\Video\obj\Debug\Video.csprojResolveAssemblyReference.cache
+C:\Users\Pierre\Desktop\Video\Video\bin\Debug\Video.exe.config
+C:\Users\Pierre\Desktop\Video\Video\obj\Debug\Video.exe
+C:\Users\Pierre\Desktop\Video\Video\obj\Debug\Video.pdb
+C:\Users\Pierre\Desktop\Video\Video\bin\Debug\Video.exe
+C:\Users\Pierre\Desktop\Video\Video\bin\Debug\Video.pdb
+C:\Users\Pierre\Desktop\Video\Video\obj\Debug\Video.csprojResolveAssemblyReference.cache
+C:\Users\Pierre\Desktop\Video\Video\obj\Debug\MainWindow.g.cs
+C:\Users\Pierre\Desktop\Video\Video\obj\Debug\App.g.cs
+C:\Users\Pierre\Desktop\Video\Video\obj\Debug\Video_MarkupCompile.cache
+C:\Users\Pierre\Desktop\Video\Video\obj\Debug\Video_MarkupCompile.lref
+C:\Users\Pierre\Desktop\Video\Video\obj\Debug\MainWindow.baml
+C:\Users\Pierre\Desktop\Video\Video\obj\Debug\Video.g.resources
+C:\Users\Pierre\Desktop\Video\Video\obj\Debug\Video.Properties.Resources.resources
+C:\Users\Pierre\Desktop\Video\Video\obj\Debug\Video.csproj.GenerateResource.Cache
+C:\Users\Pierre\Documents\visual studio 2015\Projects\Subtitles\Video\bin\Debug\Video.exe.config
+C:\Users\Pierre\Documents\visual studio 2015\Projects\Subtitles\Video\obj\Debug\Video.exe
+C:\Users\Pierre\Documents\visual studio 2015\Projects\Subtitles\Video\obj\Debug\Video.pdb
